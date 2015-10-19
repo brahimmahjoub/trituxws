@@ -39,7 +39,7 @@ CREATE TABLE `candidate` (
 
 LOCK TABLES `candidate` WRITE;
 /*!40000 ALTER TABLE `candidate` DISABLE KEYS */;
-INSERT INTO `candidate` VALUES (1,26,'brahimmahjoub@yahoo.fr','Brahim','Mahjoub'),(5,32,'mohamedali.zemzmi@tritux.com','Mohamed Ali','Zemzmi');
+INSERT INTO `candidate` VALUES (1,26,'brahimmahjoub@yahoo.fr','Brahim','Mahjoub'),(2,32,'mohamedali.zemzmi@tritux.com','Mohamed Ali','Zemzmi');
 /*!40000 ALTER TABLE `candidate` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
