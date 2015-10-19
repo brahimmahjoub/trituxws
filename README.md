@@ -13,6 +13,8 @@ II- Installation
 
 Create a mysql database called tritux_ws, then execute the script "tritux_ws.sql" in the sql folder, this script will create tables with some data
 #command
+if you want change database password in application.properties<br/>
+Open Terminal:<br/>
 >$ mysql -u root<br/>
 >$ create database tritux_ws<br/>
 mysql>  exit<br/>
